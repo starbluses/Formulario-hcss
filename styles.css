@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 400 px;
+    background: #24303c;
+    padding: 30 px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+     color:white;
+
+}
+
+body{
+margin:0 ;
+padding:0 ;
+box-sizing: border-box;
+}
+.form-register{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin:auto ;
+    margin-top:100px ;
+    border-radius: 4px;
+}
+body{
+    margin-bottom: 20px;
+}
+body{
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
